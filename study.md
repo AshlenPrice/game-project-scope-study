@@ -10,9 +10,8 @@
 
 ### Pik-Pak-Pokemon
 
-- Check out my wireframe
-- ![alt text](https://drive.google.com/open?id=0B-QcylgfGbEaaUZ3WnhWbDNVcFU "Wireframe 1")
-
+- [Check out my wirefram](https://drive.google.com/open?id=0B-QcylgfGbEaaUZ3WnhWbDNVcFU)
+-
 # Data Structure
 
 
