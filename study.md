@@ -8,17 +8,17 @@
 
 
 
-### Pik-Pak-Pokemon
+# Pik-Pak-Pokemon
 
-- [Check out my wirefram](https://drive.google.com/open?id=0B-QcylgfGbEaaUZ3WnhWbDNVcFU)
+- [Check out my wireframe](https://drive.google.com/open?id=0B-QcylgfGbEaaUZ3WnhWbDNVcFU)
 -
-# Data Structure
+## Data Structure
 
 
-# Game Markup JS
+## Game Markup JS
 
 
-# User Stories
+## User Stories
 
 - As a user  I can click menu to register my account.
 - As a user I can change my password.
@@ -26,14 +26,14 @@
 - As a user I can choose to play multiple rounds.
 - User can look to see whose turn it is.
 
-# Creative Spin
+## Creative Spin
 - My project will be a pokemon based game. Each player can be a Pokemon charecter
 instead of an X or an O.
 
-# Version Control
+## Version Control
 
 - I plan on using GitHub to back up my project as often as I make a change or code
 something substantial on my app.
 
-# Bonus
+## Bonus
 - I'm not sure if I will attempt any bonuses. I will try to if I have completed my project.
